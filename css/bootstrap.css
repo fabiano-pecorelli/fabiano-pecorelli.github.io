@@ -785,7 +785,7 @@ pre code {
 }
 @media (min-width: 480px) {
   .container {
-    width: 470px;
+    width: 80%;
   }
 }
 @media (min-width: 768px) {
