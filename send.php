@@ -35,6 +35,8 @@ $recipient = "fpecorelli@unisa.it";// Change the recipient email adress to your 
 $sujet =  "Sender information";
 $mailheaders = "From: $email\r\nReply-To: $email\r\nReturn-Path: $email\r\n";
 
+#d2ff6a VERDE
+
 if (!$error){
 
 		$sending = mail($recipient, $sujet, $msg, $mailheaders); 
