@@ -97,8 +97,6 @@
 							<h5 class="mb-30">Punto 1</h5>
 							<p>Definire la classe <b>Studente</b> che modella uno studente e fornisce i seguenti metodi:</p><br/>
 							<ul>
-								public   boolean
-								public   boolean   stessaClasse(Studente   s2).
 								<li>1) il costruttore Studente (String matricola, String nome, String cognome);</li>
 								<li>2) il metodo dammiClasse() che restituisce la classe di appartenenza dello studente in base alla matricola (es. matricola congrua a 0 -> classe 1);</li>
 								<li>3) il metodo dammiEtà() che restituisce l'età dello studente;</li>
@@ -111,35 +109,23 @@
 						<div class="col-sm-12"><br/></div>
 						<div class="col-sm-12">
 							<h5 class="mb-30">Punto 2</h5>
-							<p>Definire la classe <b>Clinica</b> che modella una clinica avente nome, indirizzo e l'elenco di tutti gli esami effettuati e fornisce i seguenti metodi:</p><br/>
+							<p>Definire la classe <b>Corso</b> che modella un corso universitario con riferimento al nome del corso e al nome del docente responsabile.</p><br/>
+
+							<p>Definire la classe <b>Esame</b> che modella un esame effettuato da uno studente. Un esame tiene traccia del voto (>=18) e del corso di riferimento</p><br/>
+
+							<p>Definire la classe <b>Libretto</b> che gestisce la lista degli esami effettuati da uno studente e fornisce i seguenti metodi:</p><br/>
 							<ul>
-								<li>1) addEsame(EsameMedico e) che inserisce un esame nell'elenco in modo ordinato rispetto alla data;</li>
-								<li>2) getEsamiPerData(GregorianCalendar data) che restituisce un oggetto ElencoEsami contenente tutti gli esami effettuati nel giorno indicato (Lanciare un'eccezione se non sono presenti esami nella data specificata);</li>
-								<li>3) getEsamiPerNome(String medico) che restituisce una lista di tutti gli esami effettuati da un particolare medico (Lanciare un'eccezione se non sono presenti esami per il medico specificato);</li>
-								<li>4) getCosto() che restituisce il costo totale degli esami effettuati presso la clinica.</li>
+								<li>1) calcolaMedia() che restituisce la media degli esami presenti nel libretto;</li>
+								<li>2) calcolaMediaPonderata() che restituisce la media pesata (in base ai CFU) degli esami presenti nel libretto;</li>
+								<li>3) dammiCFUConseguiti() che restituisce il numero totale di CFU conseguiti dallo studente;</li>
+								<li>4) esameSuperato(String nomeCorso) che restituisce un valore booleano che indica se l'esame associato al corso passato come parametro è stato superato dallo studente.</li>
 							</ul>
 						</div>
 
 						<div class="col-sm-12"><br/></div>
 						<div class="col-sm-12">
 							<h5 class="mb-30">Punto 3</h5>
-							<p>Definire un'interfaccia grafica per una clinica che:</p><br/>
-							<ul>
-								<li>1) se la clinica non è stata precedentemente salvata viene mostrato un pannello per l'inserimento di una nuova clinica (solo nome e indirizzo);</li>
-								<li>2) se la clinica è stata precedentemente salvata viene mostrato un pannello con le informazioni della clinica (nome, indirizzo, costo totale e lista esami). Nel pannello sono presenti inoltre i seguenti elementi:
-									<ul>
-										<li style="margin-left: 20px;">2.1) un pulsante <b>addEsame</b></li>
-										<li style="margin-left: 20px;">2.2) un pulsante per effettuare la ricerca per data;</li>
-										<li style="margin-left: 20px;">2.3) un pulsante per effettuare la ricerca per medico;</li>
-										<li style="margin-left: 20px;">2.4) un pulsante per il salvataggio della clinica.</li>
-									</ul></li>
-								<li>3) al click sul pulsante <b>addEsame</b> viene mostrato un pannello per l'aggiunta di un nuovo esame nel quale vengono visualizzati i seguenti elementi:
-									<ul>
-										<li style="margin-left: 20px;">3.1) una combo box che consente di selezionare il tipo di esame (Radiografia o Ecocardiogramma);</li>
-										<li style="margin-left: 20px;">3.2) in base alla selezione precedente vengono mostrati i campi per l'inserimento dell'esame specificato;</li>
-										<li style="margin-left: 20px;">3.3) un pulsante per confermare l'aggiunta dell'esame.</li>
-									</ul></li>
-							</ul>
+							To Be Defined...
 						</div>
 								
 									
