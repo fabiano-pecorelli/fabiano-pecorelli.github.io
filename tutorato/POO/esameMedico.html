@@ -120,8 +120,8 @@
 							<p>Definire la classe <b>Clinica</b> che modella una clinica avente nome, indirizzo e l'elenco di tutti gli esami effettuati e fornisce i seguenti metodi:</p><br/>
 							<ul>
 								<li>1) addEsame(EsameMedico e) che inserisce un esame nell'elenco in modo ordinato rispetto alla data;</li>
-								<li>2) getEsamiPerData(GregorianCalendar data) che restituisce un oggetto ElencoEsami contenente tutti gli esami effettuati nel giorno indicato;</li>
-								<li>3) getEsamiPerNome(String medico) che restituisce una lista di tutti gli esami effettuati da un particolare medico;</li>
+								<li>2) getEsamiPerData(GregorianCalendar data) che restituisce un oggetto ElencoEsami contenente tutti gli esami effettuati nel giorno indicato (Lanciare un'eccezione se non sono presenti esami nella data specificata);</li>
+								<li>3) getEsamiPerNome(String medico) che restituisce una lista di tutti gli esami effettuati da un particolare medico (Lanciare un'eccezione se non sono presenti esami per il medico specificato);</li>
 								<li>4) getCosto() che restituisce il costo totale degli esami effettuati presso la clinica.</li>
 							</ul>
 						</div>

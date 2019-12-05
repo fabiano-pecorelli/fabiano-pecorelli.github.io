@@ -74,8 +74,8 @@
 				<!--Main title-->
 
 					<div class="main-title mt-100 t-center">
-						<h1 class="mb-30">Esame Medico</h1>
-						<h3>Esercitazione 5 Dicembre 2019</h3>
+						<h1 class="mb-30">Libretto</h1>
+						<h3>Esercitazione 6 Dicembre 2019</h3>
 					</div>	
 
 				<!--End main title-->
@@ -95,22 +95,16 @@
 
 						<div class="col-sm-12">
 							<h5 class="mb-30">Punto 1</h5>
-							<p>Definire la classe <b>EsameMedico</b> che modella un esame medico effettuato in una clinica.
-								Ogni <b>EsameMedico</b> è caratterizzato dal nome del medico, da un referto e dalla data di effettuazione, e fornisce i seguenti metodi:</p><br/>
+							<p>Definire la classe <b>Studente</b> che modella uno studente e fornisce i seguenti metodi:</p><br/>
 							<ul>
-								<li>1) il costruttore EsameMedico (String nomeMedico);</li>
-								<li>2) il metodo effettuaEsame (String referto, GregorianCalendar data) che imposta il referto dell'esame;</li>
-								<li>3) il metodo toString() che restituisce i dati dell'esame;</li>
-								<li>4) il metodo getCosto() che restituisce il costo dell'esame.</li>
+								public   boolean
+								public   boolean   stessaClasse(Studente   s2).
+								<li>1) il costruttore Studente (String matricola, String nome, String cognome);</li>
+								<li>2) il metodo dammiClasse() che restituisce la classe di appartenenza dello studente in base alla matricola (es. matricola congrua a 0 -> classe 1);</li>
+								<li>3) il metodo dammiEtà() che restituisce l'età dello studente;</li>
+								<li>4) il metodo eFuoriCorso() che restituisce un valore booleano che indica se lo studente è fuoricorso o meno (iscritto da più di tre anni);</li>
+								<li>5) il metodo stessaClasse(Studente s2) che restituisce un valore booleano che indica se lo studente è nella stessa classe dello studente passato come parametro;</li>
 							</ul>
-							<br/>
-							<p>Definire due sottoclassi: <b>Radiografia</b> e <b>Ecocardiogramma</b>.<br/>
-								<b>Radiografia</b> è caratterizzata dal nome dell'oggetto radiografato (es. torace, braccio, ecc.) e da un'impegnativa che indica se l'esame è stato richiesto da un medico.
-								Il costo di una radiografia è 20€ senza impegnativa e 13€ con impegnativa.<br/>
-								L'<b>Ecocardiogramma</b> è caratterizzato da una tipologia (es. con contrasto, da sforzo, ecc.) e dall'età del paziente.
-								Il costo di un <b>Ecocardiogramma</b> dipende da entrambi gli attributi.
-								In particolare l'ecocardiogramma con contrasto costa 45€ mentre gli altri costano 30€. A tale costo viene applicato uno sconto del 20% nel caso in cui l'età del paziente è superiore ai 65 anni.
-							</p>
 						</div>
 
 
