@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		
+	 <!-- Metas -->
+		<meta charset="utf-8">
+		<title>Fabiano Pecorelli - Ph.D. Student</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta content="telephone=no" name="format-detection">
+
+		<!-- Css -->
+        <link href="../../css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
+		<link href="../../css/base.css" rel="stylesheet" type="text/css" media="all"/>
+		<link href="../../css/main.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="../../css/owl-carousel/owl.carousel.css" rel="stylesheet" media="all">
+		<link href="../../css/owl-carousel/owl.theme.css" rel="stylesheet" media="all">
+		<link href="../../css/magnific-popup.css" type="text/css" rel="stylesheet" media="all" />
+		<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,300,600%7CRoboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
+		<link href="../../css/fontello.css" rel="stylesheet" type="text/css" media="all">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<style type="text/css" media="print">
+			.no-print
+			{
+				display:none;
+			}
+		</style>
+    </head>
+    <body>
+	
+<!-- Preloader -->
+<div class="loader">
+		<!-- Preloader inner -->
+  <div class="loader-inner">
+	<div class="spinner">
+	  <div class="dot1"></div>
+	  <div class="dot2"></div>
+	</div>
+  </div>
+<!-- End preloader inner -->
+</div>
+<!-- End preloader-->
+
+
+<!--Wrapper-->
+<div id="wrapper" class="mt-150 mb-150">
+
+	
+	<!--Container-->
+	<div class="container">
+
+	<!--Portfolio single-->
+	<section id="portfolio" class="bg-white portfolio single pt-50">
+			
+		<!--Portfolio -->
+		<div class="portfolio">
+
+			<!--Content-->	
+			<div class="content">
+				
+					
+				<!--Row-->
+				<div class="row">
+
+
+				</div>
+				<!--End row-->													
+				
+				<!--Row-->	
+				<div class="row">
+						
+						<div class="col-md-12">
+
+				<!--Main title-->
+
+					<div class="main-title mt-100 t-center">
+						<h1 class="mb-30">Esame Medico</h1>
+						<h3>Esercitazione 5 Dicembre 2019</h3>
+					</div>	
+
+				<!--End main title-->
+				
+				
+				</div>	
+				</div>
+				<!--End row-->
+
+				<!--Block content-->	
+				<div class="block-content ">
+
+					<!--Row-->
+					<div class="row">
+					
+					<div class="block-single  mt-80 mb-80 clearfix">
+
+						<div class="col-sm-12">
+							<h5 class="mb-30">Punto 1</h5>
+							<p>Definire la classe <b>EsameMedico</b> che modella un esame medico effettuato in una clinica.
+								Ogni <b>EsameMedico</b> è caratterizzato dal nome del medico, da un referto e dalla data di effettuazione, e fornisce i seguenti metodi:</p><br/>
+							<ul>
+								<li>1) il costruttore EsameMedico (String nomeMedico);</li>
+								<li>2) il metodo effettuaEsame (String referto, GregorianCalendar data) che imposta il referto dell'esame;</li>
+								<li>3) il metodo toString() che restituisce i dati dell'esame;</li>
+								<li>4) il metodo getCosto() che restituisce il costo dell'esame.</li>
+							</ul>
+							<br/>
+							<p>Definire due sottoclassi: <b>Radiografia</b> e <b>Ecocardiogramma</b>.<br/>
+								<b>Radiografia</b> è caratterizzata dal nome dell'oggetto radiografato (es. torace, braccio, ecc.) e da un'impegnativa che indica se l'esame è stato richiesto da un medico.
+								Il costo di una radiografia è 20€ senza impegnativa e 13€ con impegnativa.<br/>
+								L'<b>Ecocardiogramma</b> è caratterizzato da una tipologia (es. con contrasto, da sforzo, ecc.) e dall'età del paziente.
+								Il costo di un <b>Ecocardiogramma</b> dipende da entrambi gli attributi.
+								In particolare l'ecocardiogramma con contrasto costa 45€ mentre gli altri costano 30€. A tale costo viene applicato uno sconto del 20% nel caso in cui l'età del paziente è superiore ai 65 anni.
+							</p>
+						</div>
+
+
+						<div class="col-sm-12"><br/></div>
+						<div class="col-sm-12">
+							<h5 class="mb-30">Punto 2</h5>
+							<p>Definire la classe <b>Clinica</b> che modella una clinica avente nome, indirizzo e l'elenco di tutti gli esami effettuati e fornisce i seguenti metodi:</p><br/>
+							<ul>
+								<li>1) addEsame(EsameMedico e) che inserisce un esame nell'elenco in modo ordinato rispetto alla data;</li>
+								<li>2) getEsamiPerData(GregorianCalendar data) che restituisce un oggetto ElencoEsami contenente tutti gli esami effettuati nel giorno indicato (Lanciare un'eccezione se non sono presenti esami nella data specificata);</li>
+								<li>3) getEsamiPerNome(String medico) che restituisce una lista di tutti gli esami effettuati da un particolare medico (Lanciare un'eccezione se non sono presenti esami per il medico specificato);</li>
+								<li>4) getCosto() che restituisce il costo totale degli esami effettuati presso la clinica.</li>
+							</ul>
+						</div>
+
+						<div class="col-sm-12"><br/></div>
+						<div class="col-sm-12">
+							<h5 class="mb-30">Punto 3</h5>
+							<p>Definire un'interfaccia grafica per una clinica che:</p><br/>
+							<ul>
+								<li>1) se la clinica non è stata precedentemente salvata viene mostrato un pannello per l'inserimento di una nuova clinica (solo nome e indirizzo);</li>
+								<li>2) se la clinica è stata precedentemente salvata viene mostrato un pannello con le informazioni della clinica (nome, indirizzo, costo totale e lista esami). Nel pannello sono presenti inoltre i seguenti elementi:
+									<ul>
+										<li style="margin-left: 20px;">2.1) un pulsante <b>addEsame</b></li>
+										<li style="margin-left: 20px;">2.2) un pulsante per effettuare la ricerca per data;</li>
+										<li style="margin-left: 20px;">2.3) un pulsante per effettuare la ricerca per medico;</li>
+										<li style="margin-left: 20px;">2.4) un pulsante per il salvataggio della clinica.</li>
+									</ul></li>
+								<li>3) al click sul pulsante <b>addEsame</b> viene mostrato un pannello per l'aggiunta di un nuovo esame nel quale vengono visualizzati i seguenti elementi:
+									<ul>
+										<li style="margin-left: 20px;">3.1) una combo box che consente di selezionare il tipo di esame (Radiografia o Ecocardiogramma);</li>
+										<li style="margin-left: 20px;">3.2) in base alla selezione precedente vengono mostrati i campi per l'inserimento dell'esame specificato;</li>
+										<li style="margin-left: 20px;">3.3) un pulsante per confermare l'aggiunta dell'esame.</li>
+									</ul></li>
+							</ul>
+						</div>
+								
+									
+					</div>
+
+
+						<div class="listing-large mt-40">
+
+
+							<!-- <a class="uppercase emph-1 btn-1" href="https://fabiano-pecorelli.github.io/other_files/Portafoglio.zip" download><i class="fa fa-download"></i>Scarica Soluzione</a>
+							--><a class="no-print uppercase emph-1 btn-1" href="javascript:window.print()">Stampa traccia</a>
+						</div>
+</div>
+<!--End wrapper-->
+
+<!--Javascript-->	
+<script src="../../js/jquery-1.11.3.min.js" type="text/javascript"></script>
+<script src="../../js/owl.carousel.js" type="text/javascript"></script>
+<script src="../../js/jquery.magnific-popup.js" type="text/javascript"></script>
+<script src="../../js/jquery.easytabs.min.js" type="text/javascript"></script>
+<script src="../../js/placeholders.min.js" type="text/javascript"></script>
+<script src="../../js/script.js" type="text/javascript"></script>
+
+<!-- Google analytics -->
+
+
+<!-- End google analytics -->
+
+
+    </body>
+</html>
