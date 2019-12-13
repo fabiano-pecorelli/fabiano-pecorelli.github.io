@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="730fbd27-ac2f-4e6c-9e74-bdb3d20cb131" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tutorato/POO/torneo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorato/POO/libretto.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutorato/POO/libretto.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +29,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/tutorato/POO" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/tutorato/POO" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tutorato/POO" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -62,7 +62,8 @@
       <workItem from="1571219690146" duration="1859000" />
       <workItem from="1575537787585" duration="7553000" />
       <workItem from="1575550141603" duration="3270000" />
-      <workItem from="1575640172159" duration="436000" />
+      <workItem from="1575640172159" duration="673000" />
+      <workItem from="1576224140659" duration="2049000" />
     </task>
     <servers />
   </component>
