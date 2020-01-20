@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="730fbd27-ac2f-4e6c-9e74-bdb3d20cb131" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tutorato/POO/preappello.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorato/POO/tutorato.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutorato/POO/tutorato.html" afterDir="false" />
     </list>
@@ -34,12 +35,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/tutorato/POO" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/tutorato/POO" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tutorato/POO" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -69,7 +70,8 @@
       <workItem from="1575550141603" duration="3270000" />
       <workItem from="1575640172159" duration="673000" />
       <workItem from="1576224140659" duration="2433000" />
-      <workItem from="1579518981241" duration="1666000" />
+      <workItem from="1579518981241" duration="2559000" />
+      <workItem from="1579532547177" duration="147000" />
     </task>
     <servers />
   </component>
@@ -77,10 +79,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1575640172258">
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1579532547506">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1575640172258" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579532547506" />
     <state x="626" y="302" width="667" height="476" key="find.popup" timestamp="1575546248679">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
