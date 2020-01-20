@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="730fbd27-ac2f-4e6c-9e74-bdb3d20cb131" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tutorato/POO/preappello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorato/POO/tutorato.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutorato/POO/tutorato.html" afterDir="false" />
-    </list>
+    <list default="true" id="730fbd27-ac2f-4e6c-9e74-bdb3d20cb131" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +67,7 @@
       <workItem from="1575640172159" duration="673000" />
       <workItem from="1576224140659" duration="2433000" />
       <workItem from="1579518981241" duration="2559000" />
-      <workItem from="1579532547177" duration="147000" />
+      <workItem from="1579532547177" duration="445000" />
     </task>
     <servers />
   </component>
