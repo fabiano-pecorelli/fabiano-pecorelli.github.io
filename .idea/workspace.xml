@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="730fbd27-ac2f-4e6c-9e74-bdb3d20cb131" name="Default Changelist" comment="" />
+    <list default="true" id="730fbd27-ac2f-4e6c-9e74-bdb3d20cb131" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/publications/conferences/C4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publications/conferences/C5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publications/conferences/C6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publications/conferences/C7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publications/conferences/C8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorato/POO/idraulico.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutorato/POO/idraulico.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,14 +38,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/tutorato/POO" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/publications/conferences" />
+      <recent name="$PROJECT_DIR$/tutorato/POO" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/tutorato/POO" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/tutorato/POO" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -67,7 +78,11 @@
       <workItem from="1575640172159" duration="673000" />
       <workItem from="1576224140659" duration="2433000" />
       <workItem from="1579518981241" duration="2559000" />
-      <workItem from="1579532547177" duration="445000" />
+      <workItem from="1579532547177" duration="655000" />
+      <workItem from="1582535783818" duration="1672000" />
+      <workItem from="1582537745052" duration="446000" />
+      <workItem from="1583145398218" duration="265000" />
+      <workItem from="1583312272603" duration="2287000" />
     </task>
     <servers />
   </component>
@@ -75,10 +90,15 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1579532547506">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1582537729534">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1582537729534" />
+    <state x="532" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1583312275088">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579532547506" />
+    <state x="532" y="338" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583312275088" />
     <state x="626" y="302" width="667" height="476" key="find.popup" timestamp="1575546248679">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
