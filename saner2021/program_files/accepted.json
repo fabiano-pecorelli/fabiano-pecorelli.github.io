@@ -1,0 +1,957 @@
+{
+    "researchTrack" : [
+        {
+            "authors" : [
+                {
+                    "name" : "Qing Huang",
+                    "email" : "qh@jxnu.edu.cn"
+                },
+                {
+                    "name" : "An Qiu",
+                    "email" : "xsx_2018@yeah.net"
+                },
+                {
+                    "name" : "Maosheng Zhong",
+                    "email" : "zhongmaosheng@sina.com"
+                },
+                {
+                    "name" : "Yuan Wang",
+                    "email" : "jxnuss@jxnu.edu.cn"
+                }
+            ],
+            "title" : "A code-description representation learning model based on atention"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Renhao Xiong",
+                    "email" : "renhao.x@seu.edu.cn"
+                },
+                {
+                    "name" : "David Lo",
+                    "email" : "davidlo@smu.edu.sg"
+                },
+                {
+                    "name" : "Bixin Li",
+                    "email" : "bx.li@seu.edu.cn"
+                }
+            ],
+            "title" : "Distinguishing Similar Design Pattern Instances through Temporal Behavior Analysis"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Adelina Ciurumelea",
+                    "email" : "ciurumelea@ifi.uzh.ch"
+                },
+                {
+                    "name" : "Sebastian Proksch",
+                    "email" : "proksch@ifi.uzh.ch"
+                },
+                {
+                    "name" : "Harald Gall",
+                    "email" : "gall@ifi.uzh.ch"
+                }
+            ],
+            "title" : "Suggesting Comment Completions for Python Using Neural Language Models"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Bo Chen",
+                    "email" : "chenbo@cs.pdx.edu"
+                },
+                {
+                    "name" : "Zhenkun Yang",
+                    "email" : "zhenkun.yang@intel.com"
+                },
+                {
+                    "name" : "Li Lei",
+                    "email" : "leil@cs.pdx.edu"
+                },
+                {
+                    "name" : "Kai Cong",
+                    "email" : "congkai@cs.pdx.edu"
+                },
+                {
+                    "name" : "Fei Xie",
+                    "email" : "xie@cs.pdx.edu"
+                }
+            ],
+            "title" : "Automated Bug Detection and Replay for COTS Linux Kernel Modules with Concolic Execution"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Victor Oliveira",
+                    "email" : "victor.oliveira@tempest.com.br"
+                },
+                {
+                    "name" : "Leopoldo Teixeira",
+                    "email" : "lmt@cin.ufpe.br"
+                },
+                {
+                    "name" : "Felipe Ebert",
+                    "email" : "fe@cin.ufpe.br"
+                }
+            ],
+            "title" : "On the Adoption of Kotlin on Android Development: a Triangulation Study"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Shuhan Yan",
+                    "email" : "yansh0625@sjtu.edu.cn"
+                },
+                {
+                    "name" : "Hang Yu",
+                    "email" : "yuhang012@sjtu.edu.cn"
+                },
+                {
+                    "name" : "Yuting Chen",
+                    "email" : "chenyt@sjtu.edu.cn"
+                },
+                {
+                    "name" : "Beijun Shen",
+                    "email" : "bjshen@sjtu.edu.cn"
+                },
+                {
+                    "name" : "Lingxiao Jiang",
+                    "email" : "lxjiang@smu.edu.sg"
+                }
+            ],
+            "title" : "Are the Code Snippets What We Are Searching for? A Benchmark and An Empirical Study on Code Search with Natural-Language Queries"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Fang Lv",
+                    "email" : "flv@ict.ac.cn"
+                },
+                {
+                    "name" : "Hao Li",
+                    "email" : "lihao2018@ict.ac.cn"
+                },
+                {
+                    "name" : "Lei Wang",
+                    "email" : "wlei@ict.ac.cn"
+                },
+                {
+                    "name" : "Ying Liu",
+                    "email" : "liuying2007@ict.ac.cn"
+                },
+                {
+                    "name" : "Huimin Cui",
+                    "email" : "huimin.cui@gmail.com"
+                },
+                {
+                    "name" : "Jingling Xue",
+                    "email" : "jingling@cse.unsw.edu.au"
+                },
+                {
+                    "name" : "Xiaobing Feng",
+                    "email" : "fxb@ict.ac.cn"
+                }
+            ],
+            "title" : "Referee: a Pattern-Guided Approach for Auto Design in Compiler-Based Analyzers"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Nathan Cassee",
+                    "email" : "n.w.cassee@tue.nl"
+                },
+                {
+                    "name" : "Bogdan Vasilescu",
+                    "email" : "vasilescu@gmail.com"
+                },
+                {
+                    "name" : "Alexander Serebrenik",
+                    "email" : "a.serebrenik@tue.nl"
+                }
+            ],
+            "title" : "The Silent Helper: the Impact of Continuous Integration on Code Reviews"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Béla Vancsics",
+                    "email" : "vancsics@inf.u-szeged.hu"
+                },
+                {
+                    "name" : "Attila Szatmári",
+                    "email" : "szatma@inf.u-szeged.hu"
+                },
+                {
+                    "name" : "Árpád Beszédes",
+                    "email" : "beszedes@inf.u-szeged.hu"
+                }
+            ],
+            "title" : "Relationship Between the Effectiveness of Spectrum-Based Fault Localization and Bug-fix Types in JavaScript Programs"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Brent van Bladel",
+                    "email" : "brent.vanbladel@uantwerpen.be"
+                },
+                {
+                    "name" : "Serge Demeyer",
+                    "email" : "serge.demeyer@uantwerpen.be"
+                }
+            ],
+            "title" : "Clone Detection in Test Code: an Empirical Evaluation"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Yan Cai",
+                    "email" : "ycai.mail@gmail.com"
+                },
+                {
+                    "name" : "Yutian Tang",
+                    "email" : "csytang@comp.polyu.edu.hk"
+                },
+                {
+                    "name" : "Haicheng Li",
+                    "email" : "lihc@ios.ac.cn"
+                },
+                {
+                    "name" : "Le Yu",
+                    "email" : "cslyu@comp.polyu.edu.hk"
+                },
+                {
+                    "name" : "Hao Zhou",
+                    "email" : "cshaoz@comp.polyu.edu.hk"
+                },
+                {
+                    "name" : "Xiapu Luo",
+                    "email" : "csxluo@comp.polyu.edu.hk"
+                },
+                {
+                    "name" : "Liang He",
+                    "email" : "heliang@iscas.ac.cn"
+                },
+                {
+                    "name" : "Purui Su",
+                    "email" : "purui@iscas.ac.cn"
+                }
+            ],
+            "title" : "Resource Race Attacks on Android"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Wei Tang",
+                    "email" : "tang-w17@mails.tsinghua.edu.cn"
+                },
+                {
+                    "name" : "Ping Luo",
+                    "email" : ""
+                },
+                {
+                    "name" : "Jialiang Fu",
+                    "email" : ""
+                },
+                {
+                    "name" : "Dan Zhang",
+                    "email" : ""
+                }
+            ],
+            "title" : "LibDX: A Cross-Platform and Accurate System to Detect Third-party Libraries in Binary code"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Marco Couto",
+                    "email" : "marcocouto90@gmail.com"
+                },
+                {
+                    "name" : "João Paulo Fernandes",
+                    "email" : "jpf@dei.uc.pt"
+                },
+                {
+                    "name" : "João Saraiva",
+                    "email" : "saraiva@di.uminho.pt"
+                }
+            ],
+            "title" : "Energy Refactorings for Android in the Large and in the Wild"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Qingzhao Zhang",
+                    "email" : "qzzhang@umich.edu"
+                },
+                {
+                    "name" : "Yizhuo Wang",
+                    "email" : "mr.wang-yz@sjtu.edu.cn"
+                },
+                {
+                    "name" : "Juanru Li",
+                    "email" : "roman@sjtusec.com"
+                },
+                {
+                    "name" : "Siqi Ma",
+                    "email" : "masiqi19910324@gmail.com"
+                }
+            ],
+            "title" : "Fuzzing Smart Contracts for Efficient Exploit Generation"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Zachary Eberhart",
+                    "email" : "zeberhar@nd.edu"
+                },
+                {
+                    "name" : "Alexander LeClair",
+                    "email" : "aleclair@nd.edu"
+                },
+                {
+                    "name" : "Collin McMillan",
+                    "email" : "cmc@nd.edu"
+                }
+            ],
+            "title" : "Automatically Extracting Subroutine Summary Descriptions from Unstructured Comments"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Sarah Nadi",
+                    "email" : "nadi@ualberta.ca"
+                },
+                {
+                    "name" : "Christoph Treude",
+                    "email" : "christoph.treude@adelaide.edu.au"
+                }
+            ],
+            "title" : "Essential Sentences for Navigating Stack Overflow Answers"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Wenhan Wang",
+                    "email" : "wwhjacob@pku.edu.cn"
+                },
+                {
+                    "name" : "Ge Li",
+                    "email" : "lige@pku.edu.cn"
+                },
+                {
+                    "name" : "Bo Ma",
+                    "email" : "1700012844@pku.edu.cn"
+                },
+                {
+                    "name" : "Xin Xia",
+                    "email" : "xin.xia@monash.edu"
+                },
+                {
+                    "name" : "Zhi Jin",
+                    "email" : "zhijin@pku.edu.cn"
+                }
+            ],
+            "title" : "Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Manishankar Mondal",
+                    "email" : "mshankar.mondal@usask.ca"
+                },
+                {
+                    "name" : "Banani Roy",
+                    "email" : "banani.roy@usask.ca"
+                },
+                {
+                    "name" : "Chanchal K. Roy",
+                    "email" : "croy@cs.usask.ca"
+                },
+                {
+                    "name" : "Kevin Schneider",
+                    "email" : "Kevin.Schneider@usask.ca"
+                }
+            ],
+            "title" : "HistoRank: History-Based Ranking of Co-change Candidates"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Yuyao Zhang",
+                    "email" : "breakingpoint@sjtu.edu.cn"
+                },
+                {
+                    "name" : "Siqi Ma",
+                    "email" : "masiqi19910324@gmail.com"
+                },
+                {
+                    "name" : "Juanru Li",
+                    "email" : "jarod@sjtu.edu.cn"
+                },
+                {
+                    "name" : "Kailai Li",
+                    "email" : "silence_916@sjtu.edu.cn"
+                },
+                {
+                    "name" : "Surya Nepal",
+                    "email" : "surya.nepal@csiro.au"
+                },
+                {
+                    "name" : "Dawu Gu",
+                    "email" : "dwgu@sjtu.edu.cn"
+                }
+            ],
+            "title" : "SMARTSHIELD: Automatic Smart Contract Protection Made Easy"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Valentina Lenarduzzi",
+                    "email" : "valentina.lenarduzzi@gmail.com"
+                },
+                {
+                    "name" : "Francesco Lomio",
+                    "email" : "francesco.lomio@tuni.fi"
+                },
+                {
+                    "name" : "Heikki Huttunen",
+                    "email" : "heikki.huttunen@tuni.fi"
+                },
+                {
+                    "name" : "Davide Taibi",
+                    "email" : "davide@taibi.it"
+                }
+            ],
+            "title" : "Are SonarQube Rules Inducing Bugs?"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Fiorella Zampetti",
+                    "email" : "fiorellazampetti@gmail.com"
+                },
+                {
+                    "name" : "Alexander Serebrenik",
+                    "email" : "a.serebrenik@tue.nl"
+                },
+                {
+                    "name" : "Massimiliano Di Penta",
+                    "email" : "dipenta@unisannio.it"
+                }
+            ],
+            "title" : "Automatically Learning Patterns for Self-Admitted Technical Debt Removal"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Guanhua Li",
+                    "email" : "17212010015@fudan.edu.cn"
+                },
+                {
+                    "name" : "Yijian Wu",
+                    "email" : "wuyijian@fudan.edu.cn"
+                },
+                {
+                    "name" : "Chanchal Roy",
+                    "email" : "chanchal.roy@usask.ca"
+                },
+                {
+                    "name" : "Jun Sun",
+                    "email" : "junsun@smu.edu.sg"
+                },
+                {
+                    "name" : "Xin Peng",
+                    "email" : "pengxin@fudan.edu.cn"
+                },
+                {
+                    "name" : "Nanjie Zhan",
+                    "email" : ""
+                },
+                {
+                    "name" : "Bin Hu",
+                    "email" : ""
+                },
+                {
+                    "name" : "Jingyi Ma",
+                    "email" : ""
+                }
+            ],
+            "title" : "SAGA: Efficient and Large-Scale Detection of Near-Miss Clones with GPU Acceleration"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Paolo Boldi",
+                    "email" : "paolo.boldi@unimi.it"
+                },
+                {
+                    "name" : "Antoine Pietri",
+                    "email" : "antoine.pietri1@gmail.com"
+                },
+                {
+                    "name" : "Sebastiano Vigna",
+                    "email" : "sebastiano.vigna@unimi.it"
+                },
+                {
+                    "name" : "Stefano Zacchiroli",
+                    "email" : "zack@irif.fr"
+                }
+            ],
+            "title" : "Ultra-large-scale Repository Analysis via Graph Compression"
+        },
+	{
+            "authors" : [
+                {
+                    "name" : "Árpád Beszédes",
+                    "email" : "beszedes@inf.u-szeged.hu"
+                },
+                {
+                    "name" : "Ferenc Horváth",
+                    "email" : "hferenc@inf.u-szeged.hu"
+                },
+                {
+                    "name" : "Massimiliano Di Penta",
+                    "email" : "dipenta@unisannio.it"
+                },
+                {
+                    "name" : "Tibor Gyimothy",
+                    "email" : "gyimi@inf.u-szeged.hu"
+                }
+            ],
+            "title" : "Leveraging Contextual Information from Function Call Chains to Improve Fault Localization"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Johannes Härtel",
+                    "email" : "johanneshaertel@uni-koblenz.de"
+                },
+                {
+                    "name" : "Ralf Lämmel",
+                    "email" : "rlaemmel@gmail.com"
+                }
+            ],
+            "title" : "Incremental Map-Reduce on Repository History"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Aline Brito",
+                    "email" : "nbrito.aline@gmail.com"
+                },
+                {
+                    "name" : "Andre Hora",
+                    "email" : "andrehoraa@gmail.com"
+                },
+                {
+                    "name" : "Marco Tulio Valente",
+                    "email" : "mtov@dcc.ufmg.br"
+                }
+            ],
+            "title" : "Refactoring Graphs: Assessing Refactoring over Time"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Daniel San Martín",
+                    "email" : "daniel.santibanez@ufscar.br"
+                },
+                {
+                    "name" : "Bento Siqueira",
+                    "email" : "bento.siqueira@ufscar.br"
+                },
+                {
+                    "name" : "Valter Camargo",
+                    "email" : "valtervcamargo@ufscar.br"
+                },
+                {
+                    "name" : "Fabiano Cutigi Ferrari",
+                    "email" : "fcferrari@ufscar.br"
+                }
+            ],
+            "title" : "Characterizing Architectural Drifts of Adaptive Systems"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Pascal Gadient",
+                    "email" : "pascal.gadient@inf.unibe.ch"
+                },
+                {
+                    "name" : "Mohammad Ghafari",
+                    "email" : "mohammad.ghafari@inf.unibe.ch"
+                },
+                {
+                    "name" : "Marc-Andrea Tarnutzer",
+                    "email" : "marc-andrea.tarnutzer@students.unibe.ch"
+                },
+                {
+                    "name" : "Oscar Nierstrasz",
+                    "email" : "oscar.nierstrasz@inf.unibe.ch"
+                }
+            ],
+            "title" : "Web APIs in Android through the Lens of Security"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Marcel Steinbeck",
+                    "email" : "marcel@informatik.uni-bremen.de"
+                },
+                {
+                    "name" : "Marc-Oliver Rüdel",
+                    "email" : "j19g@uni-bremen.de"
+                },
+                {
+                    "name" : "Rainer Koschke",
+                    "email" : "koschke@uni-bremen.de"
+                }
+            ],
+            "title" : "How EvoStreets are Observed in Three-Dimensional and Virtual Reality Environments"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Samridhi Choudhary",
+                    "email" : "samridhc@amazon.com"
+                },
+                {
+                    "name" : "Christopher Bogart",
+                    "email" : "cbogartdenver@gmail.com"
+                },
+                {
+                    "name" : "Carolyn Rose",
+                    "email" : "cprose@cs.cmu.edu"
+                },
+                {
+                    "name" : "James Herbsleb",
+                    "email" : "jdh@cs.cmu.edu"
+                }
+            ],
+            "title" : "Using productive collaboration bursts to analyze open source collaboration effectiveness"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Basma Alqadi",
+                    "email" : "balqadi@kent.edu"
+                },
+                {
+                    "name" : "Jonathan Maletic",
+                    "email" : "jmaletic@kent.edu"
+                }
+            ],
+            "title" : "Slice-Based Cognitive Complexity Metrics for Defect Prediction"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Jonathan Saddler",
+                    "email" : "jsaddle@cse.unl.edu"
+                },
+                {
+                    "name" : "Cole Peterson",
+                    "email" : "cole.scott.peterson@huskers.unl.edu"
+                },
+                {
+                    "name" : "Sanjana Sama",
+                    "email" : "ssama@student.ysu.edu"
+                },
+                {
+                    "name" : "Shruthi Nagaraj",
+                    "email" : "ShruthiNagaraj@cmail.carleton.ca"
+                },
+                {
+                    "name" : "Olga Baysal",
+                    "email" : "olgabaysal@cunet.carleton.ca"
+                },
+                {
+                    "name" : "Latifa Guerrouj",
+                    "email" : "Latifa.Guerrouj@etsmtl.ca"
+                },
+                {
+                    "name" : "Bonita Sharif",
+                    "email" : "shbonita@gmail.com"
+                }
+            ],
+            "title" : "Studying Developer Reading Behavior on StackOverflow During API Summarization Tasks"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Ariel Afonso",
+                    "email" : "ariel.afonso@icomp.ufam.edu.br"
+                },
+                {
+                    "name" : "Altigran Da Silva",
+                    "email" : "alti@icomp.ufam.edu.br"
+                },
+                {
+                    "name" : "Tayana Conte",
+                    "email" : "tayanaconte@gmail.com"
+                },
+                {
+                    "name" : "Alessandro Garcia",
+                    "email" : "alessandrofgarcia@googlemail.com"
+                },
+                {
+                    "name" : "João Cavalcanti",
+                    "email" : "john@icomp.ufam.edu.br"
+                },
+                {
+                    "name" : "Paulo Martins",
+                    "email" : "prom@icomp.ufam.edu.br"
+                }
+            ],
+            "title" : "LESSQL: Dealing with Database Schema Changes in Continuous Deployment"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Lannan Luo",
+                    "email" : "lluo@cse.sc.edu"
+                }
+            ],
+            "title" : "Heap Memory Snapshot Assisted Program Analysis for Android Permission Specification"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Kijin An",
+                    "email" : "ankijin@vt.edu"
+                },
+                {
+                    "name" : "Eli Tilevich",
+                    "email" : "tilevich@cs.vt.edu"
+                }
+            ],
+            "title" : "D-Goldilocks: Automatic Redistribution of Remote Functionalities for Performance and Efficiency"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Scott Brisson",
+                    "email" : "scott.brisson@mail.utoronto.ca"
+                },
+                {
+                    "name" : "Ehsan Noei",
+                    "email" : "e.noei@utoronto.ca"
+                },
+                {
+                    "name" : "Kelly Lyons",
+                    "email" : "kelly.lyons@utoronto.ca"
+                }
+            ],
+            "title" : "We Are Family: Analyzing Collaboration in GitHub Software Repositories and their Forks"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Hongliang Liang",
+                    "email" : "hliang@bupt.edu.cn"
+                },
+                {
+                    "name" : "Lin Jiang",
+                    "email" : "jianglin@bupt.edu.cn"
+                },
+                {
+                    "name" : "Lu Ai",
+                    "email" : "im.ailu@outlook.com"
+                },
+                {
+                    "name" : "Jinyi Wei",
+                    "email" : "lrwei@bupt.edu.cn"
+                }
+            ],
+            "title" : "Sequence directed hybrid fuzzing"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Filipe Falcão Batista Dos Santos",
+                    "email" : "filipebatista@ic.ufal.br"
+                },
+                {
+                    "name" : "Caio Barbosa",
+                    "email" : "cbvs@ic.ufal.br"
+                },
+                {
+                    "name" : "Baldoino Fonseca dos Santos Neto",
+                    "email" : "baldoino@ic.ufal.br"
+                },
+                {
+                    "name" : "Alessandro Fabrício Garcia",
+                    "email" : "afgarcia@inf.puc-rio.br"
+                },
+                {
+                    "name" : "Márcio Ribeiro",
+                    "email" : "marcio@ic.ufal.br"
+                },
+                {
+                    "name" : "Rohit Gheyi",
+                    "email" : "rohit@dsc.ufcg.edu.br"
+                }
+            ],
+            "title" : "On Relating Technical, Social Factors, and the Introduction of Bugs"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Alvi Mahadi",
+                    "email" : "alvi.utsab@gmail.com"
+                },
+                {
+                    "name" : "Karan Tongay",
+                    "email" : "karantongay@gmail.com"
+                },
+                {
+                    "name" : "Neil Ernst",
+                    "email" : "neil@neilernst.net"
+                }
+            ],
+            "title" : "Cross-Dataset Design Discussion Mining"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "C M Khaled Saifullah",
+                    "email" : "khaledkucse@gmail.com"
+                },
+                {
+                    "name" : "Muhammad Asaduzzaman",
+                    "email" : "parvez.usask@gmail.com"
+                },
+                {
+                    "name" : "Chanchal K Roy",
+                    "email" : "chanchal.roy@usask.ca"
+                }
+            ],
+            "title" : "Exploring Type Inference Techniques of Dynamically Typed Languages"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Jing Kai Siow",
+                    "email" : "JINGKAI001@e.ntu.edu.sg"
+                },
+                {
+                    "name" : "Cuiyun Gao",
+                    "email" : "cuiyun.gao@ntu.edu.sg"
+                },
+                {
+                    "name" : "Lingling Fan",
+                    "email" : "ecnujanefan@gmail.com"
+                },
+                {
+                    "name" : "Sen Chen",
+                    "email" : "ecnuchensen@gmail.com"
+                },
+                {
+                    "name" : "Yang Liu",
+                    "email" : "yangliu@ntu.edu.sg"
+                }
+            ],
+            "title" : "CORE: Automating Review Recommendation for Code Changes"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Zhaoxu Zhang",
+                    "email" : "11611308@mail.sustech.edu.cn"
+                },
+                {
+                    "name" : "Hengcheng Zhu",
+                    "email" : "zhuhc2016@mail.sustech.edu.cn"
+                },
+                {
+                    "name" : "Ming Wen",
+                    "email" : "mwenaa@cse.ust.hk"
+                },
+                {
+                    "name" : "Yida Tao",
+                    "email" : "yidatao@szu.edu.cn"
+                },
+                {
+                    "name" : "Yepang Liu",
+                    "email" : "liuyp1@sustech.edu.cn"
+                },
+                {
+                    "name" : "Yingfei Xiong",
+                    "email" : "xiongyf@pku.edu.cn"
+                }
+            ],
+            "title" : "How Do Python Framework APIs Evolve? An Exploratory Study"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Antônio Carvalho",
+                    "email" : "acdcjunior@gmail.com"
+                },
+                {
+                    "name" : "Welder Luz",
+                    "email" : "wweellddeerr@gmail.com"
+                },
+                {
+                    "name" : "Diego Marcílio",
+                    "email" : "diego.marcilio@usi.ch"
+                },
+                {
+                    "name" : "Rodrigo Bonifacio",
+                    "email" : "rbonifacio@cic.unb.br"
+                },
+                {
+                    "name" : "Gustavo Pinto",
+                    "email" : "mail@gustavopinto.org"
+                },
+                {
+                    "name" : "Edna Dias Canedo",
+                    "email" : "edna.canedo@gmail.com"
+                }
+            ],
+            "title" : "C-3PR: A Bot for Fixing Static Analysis Violations via Pull Requests"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Manishankar Mondal",
+                    "email" : "mshankar.mondal@usask.ca"
+                },
+                {
+                    "name" : "Banani Roy",
+                    "email" : "banani.roy@usask.ca"
+                },
+                {
+                    "name" : "Chanchal K. Roy",
+                    "email" : "croy@cs.usask.ca"
+                },
+                {
+                    "name" : "Kevin Schneider",
+                    "email" : "Kevin.Schneider@usask.ca"
+                }
+            ],
+            "title" : "Associating Code Clones with Association Rules for Change Impact Analysis"
+        },
+        {
+            "authors" : [
+                {
+                    "name" : "Guangjie Li",
+                    "email" : "liguangjie_er@126.com"
+                },
+                {
+                    "name" : "Hui Liu",
+                    "email" : "liuhui08@bit.edu.cn"
+                },
+                {
+                    "name" : "Jiahao Jin",
+                    "email" : "jinjiahao1993@gmail.com"
+                },
+                {
+                    "name" : "Qasim Umer",
+                    "email" : "qasimumer667@hotmail.com"
+                }
+            ],
+            "title" : "Deep Learning Based Identification of Suspicious Return Statements"
+        }
+    ]
+}
