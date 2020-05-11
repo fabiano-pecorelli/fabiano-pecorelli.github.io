@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="730fbd27-ac2f-4e6c-9e74-bdb3d20cb131" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,8 @@
       <workItem from="1582535783818" duration="1672000" />
       <workItem from="1582537745052" duration="446000" />
       <workItem from="1583145398218" duration="265000" />
-      <workItem from="1583312272603" duration="3344000" />
+      <workItem from="1583312272603" duration="3941000" />
+      <workItem from="1587922565068" duration="478000" />
     </task>
     <servers />
   </component>
@@ -93,10 +93,10 @@
     </state>
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579532547506" />
     <state x="532" y="338" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583312275088" />
-    <state x="626" y="302" width="667" height="476" key="find.popup" timestamp="1575546248679">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="114" y="147" key="new project wizard" timestamp="1587922616966">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="626" y="302" width="667" height="476" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1575546248679" />
+    <state x="114" y="147" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1587922616966" />
   </component>
   <component name="masterDetails">
     <states>
