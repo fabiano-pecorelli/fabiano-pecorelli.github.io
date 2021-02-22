@@ -232,14 +232,12 @@
 										<ul class="data left">
 											<li class="emph-1">E-Mail</li>
 											<li class="emph-1">Website</li>
-											<li class="emph-1">Phone</li>
 											<li class="emph-1">Skype</li>
 										</ul>
 
 										<ul class="data right">
 											<li>fpecorelli@unisa.it</li>
 											<li>https://fabiano-pecorelli.github.io</li>
-											<li>+39 345 059 9401</li>
 											<li>fabiano.pecorelli</li>
 										</ul>
 
@@ -526,7 +524,7 @@
 								<h5>Languages</h5>
 								<ul>
 									<li class="emph-1">English <span class="emph-4">(Fluent Speaking)</span></li>
-									<li class="emph-1">Spanish <span class="emph-4">(Fluent Speaking)</span></li>
+									<li class="emph-1">Spanish <span class="emph-4">(Basic Knowledge)</span></li>
 									<li class="emph-1">Italian <span class="emph-4">(Native)</span></li>
 								</ul>
 							</li>
@@ -651,21 +649,21 @@
 											<div class="col-md-2">
 
 												<div class="sub-title mb-40">
-													<h2 class="venue active uppercase">Conferences</h2>
+													<h2 onclick="loadContent(1)" id="conf" class="venue active clickable uppercase">Conferences</h2>
 												</div>
 
 											</div>
 											<div class="col-md-2">
 
 												<div class="sub-title mb-40">
-													<h2 class="venue uppercase">Journals</h2>
+													<h2 onclick="loadContent(2)" id="jou" class="venue clickable uppercase">Journals</h2>
 												</div>
 
 											</div>
 											<div class="col-md-2">
 
 												<div class="sub-title mb-40">
-													<h2 class="venue uppercase">Workshops</h2>
+													<h2 onclick="loadContent(3)" id="work" class="venue clickable uppercase">Workshops</h2>
 												</div>
 
 											</div>
@@ -680,7 +678,7 @@
 											<div class="col-md-12  ">
 
 												<!--Timeline-->
-												<div class="timeline">
+												<div id="confPapers" class="timeline">
 													<div class="timeline-inner ">
 														<div class="name">
 															<h4>Comparing Machine Learning and Heuristic Approaches for Metric-Based Code Smell Detection.</h4>
@@ -690,27 +688,145 @@
 															<p>In Proceedings of the IEEE/ACM International Conference on Program Comprehension (ICPC 2019), Montreal, Canada, 2019, 12 pages
 																<a target="_blank" href="publications/conferences/C1.pdf">[pdf]</a></p>
 														</div>
-													</div>
+													</div><br/>
 													<div class="timeline-inner ">
 														<div class="name switched">
-															<h4>On the Role of Data Balancing for Machine Learning-Based Code Smell Detection.</h4>
-															<span class="date">F. Pecorelli, D. Di Nucci, C. De Roover, A. De Lucia</span>
-														</div>
-														<div class="detail">
-															<p>In Proceedings of the 3rd ACM SIGSOFT International Workshop on Machine Learning Techniques for Software Quality Evaluation (MaLTeSQuE 2019), Tallinn, Estonia, 2019, 6 pages
-																<a target="_blank" href="publications/conferences/C2.pdf">[pdf]</a></p>
-														</div>
-													</div>
-													<div class="timeline-inner ">
-														<div class="name">
 															<h4>Test-related factors and post-release defects: an empirical study.</h4>
 															<span class="date">F. Pecorelli</span>
 														</div>
 														<div class="detail">
 															<p>In Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Tallinn, Estonia, 2019, 3 pages
-																<a target="_blank" href="publications/conferences/C3.pdf">[pdf]</a></p>
+																<a target="_blank" href="publications/conferences/C2.pdf">[pdf]</a></p>
+														</div>
+													</div><br/>
+													<div class="timeline-inner ">
+														<div class="name">
+															<h4>Refactoring Android-specific Energy Smells: A Plugin for Android Studio.</h4>
+															<span class="date">E. Iannone, F. Pecorelli, D. Di Nucci, F. Palomba, A. De Lucia</span>
+														</div>
+														<div class="detail">
+															<p>In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020), Seoul, South Korea, 2020, 5 pages
+															<a target="_blank" href="publications/conferences/C3.pdf">[pdf]</a></p>
+														</div>
+													</div><br/>
+
+													<div class="timeline-inner ">
+														<div class="name switched">
+															<h4>Just-In-Time Test Smell Detection and Refactoring: The DARTS Project.</h4>
+															<span class="date">S. Lambiase, A. Cupito, F. Pecorelli, A. De Lucia, F. Palomba</span>
+														</div>
+														<div class="detail">
+															<p>In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020), Seoul, South Korea, 2020, 5 pages
+																<a target="_blank" href="publications/conferences/C4.pdf">[pdf]</a></p>
+														</div>
+													</div><br/>
+
+													<div class="timeline-inner ">
+														<div class="name">
+															<h4>Developer-Driven Code Smell Prioritization.</h4>
+															<span class="date">F. Pecorelli, F. Palomba, F. Khomh, A. De Lucia</span>
+														</div>
+														<div class="detail">
+															<p>In Proceedings of IEEE/ACM Working Conference on Mining Software Repositories (MSR 2020), Seoul, South Korea, 2020, 12 pages
+																<a target="_blank" href="publications/conferences/C5.pdf">[pdf]</a></p>
+														</div>
+													</div><br/>
+
+													<div class="timeline-inner ">
+														<div class="name switched">
+															<h4>Testing of Mobile Applications in the Wild: A Large-Scale Empirical Study on Android Apps.</h4>
+															<span class="date">F. Pecorelli, G. Catolino, F. Ferrucci, A. De Lucia, F. Palomba</span>
+														</div>
+														<div class="detail">
+															<p>In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020), Seoul, South Korea, 2020, 12 pages
+																<a target="_blank" href="publications/conferences/C6.pdf">[pdf]</a></p>
+														</div>
+													</div><br/>
+
+													<div class="timeline-inner ">
+														<div class="name">
+															<h4>Refactoring Recommendations Based on the Optimization of Socio-Technical Congruence.</h4>
+															<span class="date">M. De Stefano, F. Pecorelli, D. A. Tamburri, F. Palomba, A. De Lucia</span>
+														</div>
+														<div class="detail">
+															<p>In Proceedings of the 2020 IEEE International Conference on Software Maintenance and Evolution (ICSME), Virtual, 2020, 3 pages
+																<a target="_blank" href="publications/conferences/C7.pdf">[pdf]</a></p>
+														</div>
+													</div><br/>
+
+													<div class="timeline-inner ">
+														<div class="name switched">
+															<h4>VITRuM: A Plug-In for the Visualization of Test-Related Metrics.</h4>
+															<span class="date">F. Pecorelli, G. Di Lillo, F. Palomba, A. De Lucia</span>
+														</div>
+														<div class="detail">
+															<p>In Proceedings of the International Conference on Advanced Visual Interfaces, Ischia, Italy, 2020, 3 pages
+																<a target="_blank" href="publications/conferences/C8.pdf">[pdf]</a></p>
+														</div>
+													</div><br/>
+
+
+													<div class="timeline-inner ">
+														<div class="name">
+															<h4>cASpER: A Plug-in for Automated Code Smell Detection and Refactoring.</h4>
+															<span class="date">M. De Stefano, M. S. Gambardella, F. Pecorelli, F. Palomba, A. De Lucia</span>
+														</div>
+														<div class="detail">
+															<p>In Proceedings of the International Conference on Advanced Visual Interfaces, Ischia, Italy, 2020, 3 pages
+																<a target="_blank" href="publications/conferences/C9.pdf">[pdf]</a></p>
 														</div>
 													</div>
+												</div>
+												<!--End conf-->
+												<div id="jouPapers" class="timeline">
+													
+													<div class="timeline-inner ">
+														<div class="name">
+															<h4>A Large Empirical Assessment of the Role of Data Balancing in Machine-Learning-based Code Smell Detection.</h4>
+															<span class="date">F. Pecorelli, D. Di Nucci, C. De Roover, A. De Lucia</span>
+														</div>
+														<div class="detail">
+															<p>Elsevier's Journal of Systems and Software (JSS), 
+																<a target="_blank" href="publications/journals/J1.pdf">[pdf]</a></p>
+														</div>
+													</div><br/><br/>
+
+
+													<div class="timeline-inner ">
+														<div class="name switched">
+															<h4>Adaptive selection of classifiers for bug prediction: A large-scale empirical analysis of its performances and a benchmark study.</h4>
+															<span class="date">F. Pecorelli, D. Di Nucci</span>
+														</div>
+														<div class="detail">
+															<p>Science of Computer Programming
+																<a target="_blank" href="publications/journals/J2.pdf">[pdf]</a></p>
+														</div>
+													</div><br/><br/>
+
+
+													<div class="timeline-inner ">
+														<div class="name">
+															<h4>The Relation of Test-Related Factors to Software Quality: A Case Study on Apache Systems.</h4>
+															<span class="date">F. Pecorelli, F. Palomba, A. De Lucia</span>
+														</div>
+														<div class="detail">
+															<p>Empirical Software Engineering (EMSE)
+																<a target="_blank" href="publications/journals/J3.pdf">[pdf]</a></p>
+														</div>
+													</div>
+												</div>
+												<!--End jou-->
+												<div id="workshopPapers" class="timeline">
+													<div class="timeline-inner ">
+														<div class="name">
+															<h4>On the Role of Data Balancing for Machine Learning-Based Code Smell Detection.</h4>
+															<span class="date">F. Pecorelli, D. Di Nucci, C. De Roover, A. De Lucia</span>
+														</div>
+														<div class="detail">
+															<p>In Proceedings of the 3rd ACM SIGSOFT International Workshop on Machine Learning Techniques for Software Quality Evaluation (MaLTeSQuE 2019), Tallinn, Estonia, 2019, 6 pages
+																<a target="_blank" href="publications/workshops/W1.pdf">[pdf]</a></p>
+														</div>
+													</div><br/>
 													<div class="timeline-inner ">
 														<div class="name switched">
 															<h4>Splicing Community Patterns and Smells: A Preliminary Study.</h4>
@@ -718,69 +834,24 @@
 														</div>
 														<div class="detail">
 															<p>In Proceedings of the 3rd ACM SIGSOFT International Workshop on Machine Learning Techniques for Software Quality Evaluation (MaLTeSQuE 2019), Tallinn, Estonia, 2019, 6 pages
-																<a target="_blank" href="publications/conferences/C4.pdf">[pdf]</a></p>
+																<a target="_blank" href="publications/workshops/W2.pdf">[pdf]</a></p>
 														</div>
-													</div>
+													</div><br/>
 
 													<div class="timeline-inner ">
 														<div class="name">
-															<h4>Refactoring Android-specific Energy Smells: A Plugin for Android Studio.</h4>
-															<span class="date">E. Iannone, F. Pecorelli, D. Di Nucci, F. Palomba, A. De Lucia</span>
+															<h4>A preliminary study on the adequacy of static analysis warnings with respect to code smell prediction.</h4>
+															<span class="date">S. Lujan, F. Pecorelli, F. Palomba, A. De Lucia, V. Lenarduzzi</span>
 														</div>
 														<div class="detail">
-															<p>In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020), Seoul, South Korea, 2020, to appear
-															<a target="_blank" href="publications/conferences/C5.pdf">[pdf]</a></p>
+															<p>In Proceedings of the 4th ACM SIGSOFT International Workshop on Machine-Learning Techniques for Software-Quality Evaluation (MaLTeSQuE 2020), Virtual, 2020, 6 pages
+																<a target="_blank" href="publications/workshops/W3.pdf">[pdf]</a></p>
 														</div>
-													</div>
-
-														<div class="timeline-inner ">
-															<div class="name switched">
-																<h4>Just-In-Time Test Smell Detection and Refactoring: The DARTS Project.</h4>
-																<span class="date">S. Lambiase, A. Cupito, F. Pecorelli, A. De Lucia, F. Palomba</span>
-															</div>
-															<div class="detail">
-																<p>In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020), Seoul, South Korea, 2020, to appear
-																	<a target="_blank" href="publications/conferences/C6.pdf">[pdf]</a></p>
-															</div>
-														</div>
-
-														<div class="timeline-inner ">
-															<div class="name">
-																<h4>Developer-Driven Code Smell Prioritization.</h4>
-																<span class="date">F. Pecorelli, F. Palomba, F. Khomh, A. De Lucia</span>
-															</div>
-															<div class="detail">
-																<p>In Proceedings of IEEE/ACM Working Conference on Mining Software Repositories (MSR 2020), Seoul, South Korea, 2020, to appear
-																	<a target="_blank" href="publications/conferences/C7.pdf">[pdf]</a></p>
-															</div>
-														</div>
-
-														<div class="timeline-inner ">
-															<div class="name switched">
-																<h4>Testing of Mobile Applications in the Wild: A Large-Scale Empirical Study on Android Apps.</h4>
-																<span class="date">F. Pecorelli, G. Catolino, F. Ferrucci, A. De Lucia, F. Palomba</span>
-															</div>
-															<div class="detail">
-																<p>In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020), Seoul, South Korea, 2020, to appear
-																	<a target="_blank" href="publications/conferences/C8.pdf">[pdf]</a></p>
-															</div>
-														</div>
-
-
-														<div class="timeline-inner ">
-															<div class="name">
-																<h4>A Large Empirical Assessment of the Role of Data Balancing in Machine-Learning-based Code Smell Detection.</h4>
-																<span class="date">F. Pecorelli, D. Di Nucci, C. De Roover, A. De Lucia</span>
-															</div>
-															<div class="detail">
-																<p>Elsevier's Journal of Systems and Software (JSS)
-																	<a target="_blank" href="publications/journals/J1.pdf">[pdf]</a></p>
-															</div>
-														</div>
-												<!--End timeline-->
 													</div>
 												</div>
+
 											</div>
+
 										<!--End row-->
 
 
@@ -1032,7 +1103,7 @@
 					<!--Social-->					
 					<ul class="social">
 						<li><a target="_blank" href="https://twitter.com/FabianoPecorel1"><i class="icon-twitter"></i></a></li>
-						<li><a target="_blank" href="#"><i class="icon-linkedin"></i></a></li>
+						<!--<li><a target="_blank" href="#"><i class="icon-linkedin"></i></a></li>-->
 						<li><a target="_blank" href="https://www.facebook.com/pecorellifabiano"><i class="icon-facebook"></i></a></li>
 					</ul>
 					<!--End social-->	
@@ -1065,6 +1136,7 @@
 <script src="js/instafeed.min.js" type="text/javascript"></script>
 <script src="js/placeholders.min.js" type="text/javascript"></script>
 <script src="js/script.js" type="text/javascript"></script>
+<script src="js/publications.js" type="text/javascript"></script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
 
 

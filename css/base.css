@@ -350,7 +350,9 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	.emph-3{font-style:italic;}
 	.emph-4{color:#777777;}
 
-
+.clickable:hover{
+	cursor: pointer;
+}
 
 	
 
